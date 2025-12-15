@@ -1,0 +1,19 @@
+.env
+keys/
+var
+keys/
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Mac OS X
+.DS_Store
+
+# Misc
+scratch/
+legion_startup.sh
+*.pem
+schema.sql
+# details.txt
+.env.*
+package-lock.json
