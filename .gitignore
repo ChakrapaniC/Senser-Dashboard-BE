@@ -13,7 +13,6 @@ npm-debug.log*
 scratch/
 legion_startup.sh
 *.pem
-schema.sql
 # details.txt
 .env.*
 package-lock.json
